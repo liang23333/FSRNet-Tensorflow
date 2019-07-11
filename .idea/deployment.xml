@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="liang@10.141.221.248:22" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="liang@10.141.221.248:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/liang/PycharmProjects/FSR-Tensorflow" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
