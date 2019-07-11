@@ -16,11 +16,7 @@ python run_model.py --input_path=./testing_set --output_path=./testing_res --gpu
 
 
 
-| HR | SR |
-| ------ | ------ |
-| <img src="./testing_set/9099.png" width="30%" alt="Input">| <img src="./testing_res/9099.png" width="30%" alt="Output"> |
-
-<img src="./testing_set/9099.png" width="30%" alt="Input"> <img src="./testing_res/9099.png" width="30%" alt="Output">
+<img src="./testing_set/9099.png" width="25%" alt="Input"> <img src="./testing_res/9099.png" width="25%" alt="Output">
 
 ## Training
 
