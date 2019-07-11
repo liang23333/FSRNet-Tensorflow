@@ -14,8 +14,13 @@ For example:
 python run_model.py --input_path=./testing_set --output_path=./testing_res --gpu=0 --model=color --phase=test --height=128 --width=128
 ```
 
-<img src="./testing_set/9099.png" width="100%" alt="Input">
-<img src="./testing_res/9099.png" width="100%" alt="Output">
+
+
+| HR | SR |
+| ------ | ------ |
+| <img src="./testing_set/9099.png" width="30%" alt="Input">| <img src="./testing_res/9099.png" width="30%" alt="Output"> |
+
+<img src="./testing_set/9099.png" width="30%" alt="Input"> <img src="./testing_res/9099.png" width="30%" alt="Output">
 
 ## Training
 
