@@ -64,8 +64,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="38">
-                <caret line="2" column="90" selection-start-line="2" selection-start-column="90" selection-end-line="2" selection-end-column="90" />
+              <first_editor relative-caret-position="323">
+                <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
               </first_editor>
               <second_editor />
             </state>
@@ -156,6 +156,11 @@
               <item name="FSR-Tensorflow" type="b2602c69:ProjectViewProjectNode" />
               <item name="FSR-Tensorflow" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FSR-Tensorflow" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FSR-Tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="testing_res" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -196,25 +201,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562588463861</updated>
-      <workItem from="1562588465563" duration="53314000" />
+      <workItem from="1562588465563" duration="53514000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53314000" />
+    <option name="totallyTimeSpent" value="53514000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21268657" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21268657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.4989339" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.4989339" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="File Transfer" sideWeight="0.49946696" weight="0.3253796" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -378,8 +383,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="38">
-            <caret line="2" column="90" selection-start-line="2" selection-start-column="90" selection-end-line="2" selection-end-column="90" />
+          <first_editor relative-caret-position="323">
+            <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
           </first_editor>
           <second_editor />
         </state>
