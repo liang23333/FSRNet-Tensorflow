@@ -1,6 +1,6 @@
 # FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors
 
-Tensorflow implement
+Tensorflow implement FSRNet based on [SRN-Deblur](https://github.com/jiangsutx/SRN-Deblur/)
 
 
 ## Testing
@@ -30,3 +30,5 @@ python run_model.py --phase=train --batch=16 --lr=1e-4 --epoch=500
 2. I use [face alignment](https://github.com/1adrianb/face-alignment) to generate landmarks.
 3. Download model from [model](https://pan.baidu.com/s/1HBzZmcty45dhhUz-uGnMLw) 
 password: 0z3l 
+
+
